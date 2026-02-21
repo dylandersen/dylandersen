@@ -31,8 +31,9 @@
 
 ## GitHub Activity
 
-![GitHub Contribution Graph](https://ghchart.rshah.org/dylandersen)
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dylandersen&theme=github_dark)
+<img src="https://ghchart.rshah.org/dylandersen" alt="GitHub Contribution Graph">
+<br>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dylandersen&theme=github_dark" alt="GitHub Stats" width="360">
 
 ## Connect
 

@@ -1,6 +1,6 @@
 # Hi, I'm Dylan 👋
 
-📍 **Orange County, CA** | 🤖 **AI Architect & Product Builder** | 📸 **Photographer**
+📍 **Orange County, CA** | 🤖 **AI Architect** | 📸 **Photographer** | ☁️ **Sr. Solution Engineer**
 
 ![AI](https://img.shields.io/badge/-AI-111111?style=flat-square&logo=openai&logoColor=white)
 ![Salesforce](https://img.shields.io/badge/-Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
@@ -33,7 +33,7 @@
 
 <img src="https://ghchart.rshah.org/dylandersen" alt="GitHub Contribution Graph">
 <br>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dylandersen&theme=github_dark" alt="GitHub Stats" width="360">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dylandersen&theme=github_dark" alt="GitHub Stats" width="260">
 
 ## Connect
 

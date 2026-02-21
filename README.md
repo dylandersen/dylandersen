@@ -32,7 +32,7 @@
 ## GitHub Activity
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/dylandersen)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dylandersen&show_icons=true&hide_border=true)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dylandersen&theme=github_dark)
 
 ## Connect
 

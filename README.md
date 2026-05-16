@@ -25,10 +25,10 @@
 
 ## What I'm Focused On
 
-- Shipping AI-native products from idea to production quickly
-- Building tools for creators, engineers, and operators
-- Combining technical architecture with strong product thinking
-- Documenting systems so teams can move faster with less friction
+- Building, developing, and shaping next-gen solutions for Salesforce developers & architects - particularly when it comes to Agentforce and Platform-related artifacts and apps.
+- Creating tools for creators & engineers inside and outside of the Salesforce ecosystem.
+- Thinking deeply about what good architecture looks like and how to implement best practices and develop new behaviors around Salesforce and other systems.
+- Trying to build 'what's next' for the things I care about (photography apps, Salesforce, React-based frontends).
 
 ## GitHub Activity
 

@@ -1,6 +1,6 @@
 # Hi, I'm Dylan 👋
 
-📍 **Orange County, CA** | 🤖 **AI Architect** | 📸 **Photographer** | ☁️ **Sr. Solution Engineer**
+📍 **Orange County, CA** | 🤖 **AI Architect** | 📸 **Photographer** | ☁️ **Sr. Strategic Forward Deployed Engineer**
 
 ![AI](https://img.shields.io/badge/-AI-111111?style=flat-square&logo=openai&logoColor=white)
 ![Salesforce](https://img.shields.io/badge/-Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
